@@ -1,0 +1,2 @@
+this is new feature
+hi this is second commit
